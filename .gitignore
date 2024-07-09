@@ -1,0 +1,10 @@
+*cache*
+delete*
+dont-panic*
+*dummy*
+.htaccess
+locks
+log
+*attic*
+tmp
+*temp*

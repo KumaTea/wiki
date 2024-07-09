@@ -1,2 +1,5 @@
 # wiki
-Self Hosted DokuWiki
+
+Self Hosted DokuWiki Data
+
+[Kumapedia](https://wiki.kmtea.eu)
