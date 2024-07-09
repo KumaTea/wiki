@@ -1,0 +1,7 @@
+====== 关于本站 ======
+
+===== 架构 =====
+
+B机器 -> PVE -> LXC -> Apache -> Dokuwiki
+
+公网 -> W机器 -> Nginx -(ZeroTier)-> LXC
