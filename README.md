@@ -1,0 +1,2 @@
+# wiki
+Self Hosted DokuWiki
