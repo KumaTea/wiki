@@ -1,6 +1,6 @@
 ====== 欢迎来到 Kumapedia! ======
 
-这里主要存放 [[https://t.me/KumaTea|Kumaverse]] 的黑话条目。
+这里主要存放 [[https://t.me/KumaTea|Kumaverse]] 的[[https://github.com/KumaTea/NextBot/blob/main/gpt/glossary.py|黑话]]条目。
 
 
 [[图批]]推荐：[[图批语]]
@@ -9,6 +9,10 @@
 
 详见：[[关于本站]]
 
-目前处于试运行阶段，尚不稳定，访问速度也一般。
+目前试运行中，尚不稳定，访问速度一般。
 
-暂时未开启访客及自动注册用户编辑权限，如有兴趣可注册后私聊站长或管理员。
+暂未开启访客及自动注册用户编辑权限，如有兴趣可注册后私聊站长或管理员。
+
+未满18岁请谨慎观看本站。
+
+根据[[https://github.com/KumaTea/wiki/blob/main/LICENSE|使用协议]]，本站拒绝向[[情侣阶级]]、[[二代|官富二代]]及[[高学历阶级]]提供服务。
